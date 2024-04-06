@@ -1,0 +1,11 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾Šˆ…8»œ×òê1
+^
+java:S1128"ARemove this unused import 'org.aspectj.lang.annotation.Pointcut'.(ˆ“¡¿8“Ñ¼òê1
+h
+java:S1128"FRemove this unused import 'org.aspectj.lang.annotation.AfterThrowing'.(‹™Şøÿÿÿÿ8Ğ´°òê1
+p
+java:S1854"NRemove this useless assignment to local variable "springMockMvcWebController".(âè’øÿÿÿÿ8Á‚Õòê1
+a
+java:S1481"?Remove this unused "springMockMvcWebController" local variable.(âè’øÿÿÿÿ8Á‚Õòê1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ûƒ€8¤¯×òê1
